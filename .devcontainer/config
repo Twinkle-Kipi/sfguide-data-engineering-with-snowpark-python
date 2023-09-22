@@ -1,7 +1,7 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = rmb77252.us-west-2.aws
+accountname = rmb77252.prod3.us-west-2.aws
 username = TWINKLE
 password = Twinkle@2000
 rolename = ACCOUNTADMIN
