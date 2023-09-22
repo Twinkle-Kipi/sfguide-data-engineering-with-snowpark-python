@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = "SBAGSXK.IWB57823"
-username = "TWINKLE"
-password = "Twinkle@2000"
-rolename = "ACCOUNTADMIN"
-warehousename = "HOL_WH"
-dbname = "HOL_DB"
+accountname = rmb77252.us-west-2.aws
+username = TWINKLE
+password = Twinkle@2000
+rolename = ACCOUNTADMIN
+warehousename = HOL_WH
+dbname = HOL_DB
